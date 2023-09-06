@@ -15,7 +15,7 @@ Currency Exchange Rate Converter and Visualizer is a Python application that all
 
 - Python 3.7 or higher.
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) (Python's standard GUI library).
-- Alpha Vantage API Key (Sign up for a free API key at [Alpha Vantage](https://www.alphavantage.co/)).
+- [Alpha Vantage](https://www.alphavantage.co/)) API Key (It's free).
 
 ### Installation
 
